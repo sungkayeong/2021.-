@@ -1,4 +1,13 @@
 # (성가영)파이썬 기초 공부하기 (21.05.13)
+## 05.13 : 파이썬 입력, 출력 (python01.ipynb)
++ 입력 : input() => 정수(int), 실수(float)를 입력할 경우 형변환 하기
++ 출력 : print() => f-string
++ if문 
+  + if ... : 명령문 elif ... : 명령문 else : 
++ for문 : 반복문 => range()
++ while문
+
+
 ## 05.14 (python02.ipynb)
 + 컬렉션 자료형 : 순서있는지, 없는지
 + 문자열 (str) : 문자들의 모임
@@ -9,10 +18,8 @@
 + 전체 요소 접근 방법 : for .. in 컬렉션명 :
 
 
-## 05.13 : 파이썬 입력, 출력 (python01.ipynb)
-+ 입력 : input() => 정수(int), 실수(float)를 입력할 경우 형변환 하기
-+ 출력 : print() => f-string
-+ if문 
-  + if ... : 명령문 elif ... : 명령문 else : 
-+ for문 : 반복문 => range()
-+ while문
+## 05.15 (python02.ipynb)
++ 리스트
+  + 문자열 (str) 
++ 튜플 : 리스트와 비슷하지만 수정이 불가
++ 딕션너리 : 키로 값을 구분
